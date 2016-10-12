@@ -55,6 +55,7 @@
     "erroropenpopup": "This activity is trying to open a popup. This is not supported in this app.",
     "errorrenamefile": "Error renaming the file. Please try again.",
     "errorsync": "An error occurred while synchronizing. Please try again.",
+    "errorsyncblocked": "This {{$a}} cannot be synchronized right now because of an ongoing process. Please try again later. If the problem persists, try restarting the app.",
     "filename": "Filename",
     "filenameexist": "File name already exists: {{$a}}",
     "folder": "Folder",
@@ -140,6 +141,7 @@
     "serverconnection": "Error connecting to the server",
     "showmore": "Show more...",
     "site": "Site",
+    "sitemaintenance": "The site is undergoing maintenance and is currently not available",
     "sizeb": "bytes",
     "sizegb": "GB",
     "sizekb": "KB",
@@ -150,6 +152,8 @@
     "teachers": "Teachers",
     "timesup": "Time is up!",
     "twoparagraphs": "{{p1}}<br><br>{{p2}}",
+    "tryagain": "Try again",
+    "upgraderunning": "Site is being upgraded, please retry later.",
     "unexpectederror": "Unexepected error. Please close and reopen the application to try again",
     "userdeleted": "This user account has been deleted",
     "userdetails": "User details",
@@ -164,5 +168,6 @@
     "wsfunctionnotavailable": "The webservice function is not available.",
     "year" : "year",
     "years": "years",
-    "yes": "Yes"
+    "yes": "Yes",
+    "whoops": "Whoops!"
 }
