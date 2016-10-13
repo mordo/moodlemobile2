@@ -10,6 +10,5 @@
     "wsextservice" : "local_mobile",
     "demo_sites": {},
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
-    "siteurl": "http://demosep.savetechnology.com.mx/moodle30"
+    "customurlscheme": "moodlemobile"
 }
